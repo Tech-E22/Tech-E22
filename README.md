@@ -1,9 +1,11 @@
-## 💅🏽 Hey yall 
+## 💅🏽 Hey yall!! 
 
 My name is Erika or E for short. 
 
-I currently work as an information system security manager and cyber advisor, where I manage the cybersecurity posture of weapons training systems.
-Recently, I joined Level Up in Tech to gain some knowledge and experience in ☁️. I will be sharing my journey on GitHub, Medium and LinkedIn, so feel free to connect with me!
+I currently work as an information system security manager and cyber advisor, where I am responsible for the cybersecurity posture of weapons training systems.
+Recently, I joined Level Up in Tech to gain some knowledge and experience in ☁️. I will be sharing my journey on GitHub, Medium, and LinkedIn.
+
+Feel free to connect with me!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Erika-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erika-m-anderson-cism-cap)](https://www.linkedin.com/in/erika-m-anderson-cism-cap)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@Tech_E)](https://medium.com/@Tech_E)
