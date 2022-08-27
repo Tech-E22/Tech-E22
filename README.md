@@ -2,7 +2,6 @@
 
 My name is Erika or E for short. 
 
-I currently work as an information system security manager and cyber advisor, where I am responsible for the cybersecurity posture of weapons training systems.
 Recently, I joined Level Up in Tech to gain some knowledge and experience in ☁️. I will be sharing my journey on GitHub, Medium, and LinkedIn.
 
 Feel free to connect with me!
