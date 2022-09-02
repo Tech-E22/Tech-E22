@@ -2,7 +2,7 @@
 
 My name is Erika or E for short. 
 
-Recently, I joined Level Up in Tech to gain some knowledge and experience in ☁️. I will be sharing my journey on GitHub, Medium, and LinkedIn.
+I joined Level Up in Tech to gain some knowledge and experience in ☁️. I will be sharing my journey on GitHub, Medium, and LinkedIn.
 
 Feel free to connect with me!
 
