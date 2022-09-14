@@ -28,4 +28,6 @@ Feel free to connect with me!
 
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tech-E22&theme=vue)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-E22&hide=TeX&layout=compact)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Tech-E22)
