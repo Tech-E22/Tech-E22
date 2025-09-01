@@ -2,7 +2,7 @@
 
 My name is Erika or E for short. 
 
-I joined Level Up in Tech to gain some knowledge and experience in ☁️. I will be sharing my journey on GitHub, Medium, and LinkedIn.
+A few years ago, I joined Level Up in Tech to gain some knowledge and experience in ☁️. After spending some time in a cloud engineering role, I decided to go back to security. Both experiences has helped me see the importance of having security professionals like GRC in the mix with the dev and engineering teams.
 
 Feel free to connect with me!
 
