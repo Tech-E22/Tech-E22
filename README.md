@@ -1,8 +1,10 @@
 ## 💅🏽 Hey yall!! 
 
-My name is Erika or E for short. 
+Hi, my name is Erika (or E for short).  
 
-A few years ago, I joined Level Up in Tech to gain some knowledge and experience in ☁️. After spending some time in a cloud engineering role, I decided to go back to security. Both experiences has helped me see the importance of having security professionals like GRC in the mix with the dev and engineering teams.
+A few years ago, I joined Level Up in Tech to gain knowledge and experience in ☁️. After spending some time in a cloud engineering role, I decided to go back to security. Both experiences helped me see the importance of having security professionals like GRC in the mix with dev and engineering teams.  
+
+It’s no longer enough for GRC to just communicate and collaborate, we need to **engineer** alongside them. Security has to stay at the forefront of every CI/CD pipeline. 
 
 Feel free to connect with me!
 
